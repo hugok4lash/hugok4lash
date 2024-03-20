@@ -97,4 +97,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Je suis puceau, mais pas pour longtemps <a href="https://discord.gg/211" target="_blank">Click Here</a></div>
